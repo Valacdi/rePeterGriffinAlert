@@ -1,0 +1,10 @@
+C:\Users\jrwpa\Documents\New folder\rePeterGriffinAlert-main\Peter Griffin Alert\bin\Debug\Peter Griffin Alert.exe.config
+C:\Users\jrwpa\Documents\New folder\rePeterGriffinAlert-main\Peter Griffin Alert\bin\Debug\Peter Griffin Alert.exe
+C:\Users\jrwpa\Documents\New folder\rePeterGriffinAlert-main\Peter Griffin Alert\bin\Debug\Peter Griffin Alert.pdb
+C:\Users\jrwpa\Documents\New folder\rePeterGriffinAlert-main\Peter Griffin Alert\obj\Debug\Peter Griffin Alert.csprojAssemblyReference.cache
+C:\Users\jrwpa\Documents\New folder\rePeterGriffinAlert-main\Peter Griffin Alert\obj\Debug\Peter_Griffin_Alert.frmPeterMain.resources
+C:\Users\jrwpa\Documents\New folder\rePeterGriffinAlert-main\Peter Griffin Alert\obj\Debug\Peter_Griffin_Alert.Properties.Resources.resources
+C:\Users\jrwpa\Documents\New folder\rePeterGriffinAlert-main\Peter Griffin Alert\obj\Debug\Peter Griffin Alert.csproj.GenerateResource.cache
+C:\Users\jrwpa\Documents\New folder\rePeterGriffinAlert-main\Peter Griffin Alert\obj\Debug\Peter Griffin Alert.csproj.CoreCompileInputs.cache
+C:\Users\jrwpa\Documents\New folder\rePeterGriffinAlert-main\Peter Griffin Alert\obj\Debug\Peter Griffin Alert.exe
+C:\Users\jrwpa\Documents\New folder\rePeterGriffinAlert-main\Peter Griffin Alert\obj\Debug\Peter Griffin Alert.pdb
